@@ -4,7 +4,7 @@
 
 
 ## 📖 Descrição
-Este projeto foi um desafio pratico da **Rocketseat** com o objetivo de aprofundar em habilidades de css **grid** e **flex** e praticar também responsividade do site, tornando a experiência do usuário mais agradável e acessível.
+Este projeto foi desenvolvido como um desafio prático da **Rocketseat**, com o objetivo de aprofundar conhecimentos em **CSS Grid**, **Flexbox** e **responsividade**. O foco é proporcionar uma experiência mais agradável e acessível para os usuários.
 
 ## 🚀 Tecnologias Utilizadas
 - ✅ HTML<br>
